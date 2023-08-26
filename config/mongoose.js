@@ -5,8 +5,8 @@ const dbUsername = process.env.MONGODB_USERNAME;
 const dbPassword = process.env.MONGODB_PASSWORD;
 const dbName = process.env.MONGODB_DBNAME;
 
-const dbURL = 'mongodb+srv://tripurari:Tripurari@cluster0.8j7vazq.mongodb.net/mernstack?retryWrites=true&w=majority';
 
+const dbURL='mongodb+srv://pssingh1145:Kuldeep26@cluster0.jdka3nj.mongodb.net/user?retryWrites=true&w=majority';
 // const dbURL = `mongodb+srv://${dbUsername}:${dbPassword}@cluster0.8j7vazq.mongodb.net/${dbName}?retryWrites=true&w=majority`;
 
 

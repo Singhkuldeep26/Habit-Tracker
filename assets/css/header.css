@@ -1,11 +1,11 @@
 .navBar{
-    background-color: brown;
+    background-color: rgb(34, 167, 89);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     padding: 0.5rem 2rem;
-    color: white;
+    color: rgb(152, 146, 146);
     box-shadow: 0rem 0rem 1.5rem 0.2rem rgb(130, 127, 127);
 }
 
@@ -16,14 +16,14 @@
 #name-of-app{
     font-size: 3rem;
     text-decoration: none;
-    color: white;
+    color: rgb(114, 97, 211);
 }
 
 #logout{
     font-size: 1.5rem;
     margin-right: 10px;
     text-decoration: none;
-    color: white;
+    color: rgb(223, 17, 17);
 }
 
 .noUser ul{

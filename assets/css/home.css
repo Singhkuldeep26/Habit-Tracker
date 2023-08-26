@@ -39,7 +39,7 @@ body{
     font-size: 0.8rem;
     box-sizing: border-box;
     background-color: #02005f7a;
-    color: whitesmoke;
+    color: rgb(151, 144, 144);
     border: none;
     margin-left: 0.3rem;
     cursor: pointer;
