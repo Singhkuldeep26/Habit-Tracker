@@ -14,7 +14,7 @@ const MongoStore = require('connect-mongo');
 const flash = require('connect-flash');
 const customMware = require('./config/middleware');
 
-app.use(express.urlencoded());
+app.use(express.urlencoded({extended:true}));
 
 // To use static file
 app.use(express.static('./assets'));
